@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"5c9777066a95ed65","x":90,"y":78,"width":128,"height":61,"type":"text","text":"INPUT \nMODULES"},
+		{"id":"0f237d3035c57227","x":383,"y":78,"width":126,"height":61,"type":"text","text":"OUTPUT\nMODULES"},
+		{"id":"9c20edafb2eb183c","x":49,"y":-60,"width":211,"height":100,"color":"1","type":"text","text":"**Sensors / Transmitters**\nP/B, limit sw., prox, encoders, RTD/T "},
+		{"id":"98850aa0182729c4","x":369,"y":-40,"width":155,"height":80,"type":"text","text":"**Actuators**\nMotors / valves "},
+		{"id":"cc6276407d17be37","x":207,"y":163,"width":190,"height":100,"type":"text","text":"**PLC**\nPower Supply | CPU | Memory | Communications"},
+		{"id":"5d0759c1ff4be4bb","x":178,"y":300,"width":249,"height":76,"type":"text","text":"**Industrial Networks**\n(Ethernet/IP, PROFINET, Modbus, etc.)"},
+		{"id":"f37c2ddb1cbf5604","x":-160,"y":64,"width":180,"height":90,"type":"text","text":"Programming \ndevice/HMI\n(PC/handheld/HMI"}
+	],
+	"edges":[
+		{"id":"16e424a93bb1fbaa","fromNode":"9c20edafb2eb183c","fromSide":"bottom","toNode":"5c9777066a95ed65","toSide":"top"},
+		{"id":"d12bb28f4162d50c","fromNode":"98850aa0182729c4","fromSide":"bottom","toNode":"0f237d3035c57227","toSide":"top"},
+		{"id":"cc1089ec96884eb6","fromNode":"5c9777066a95ed65","fromSide":"bottom","toNode":"cc6276407d17be37","toSide":"left"},
+		{"id":"1d96409878dfdbcf","fromNode":"0f237d3035c57227","fromSide":"bottom","toNode":"cc6276407d17be37","toSide":"right"},
+		{"id":"63e0c11970117ac8","fromNode":"5c9777066a95ed65","fromSide":"right","toNode":"0f237d3035c57227","toSide":"left"},
+		{"id":"d92e641571182c40","fromNode":"0f237d3035c57227","fromSide":"left","toNode":"5c9777066a95ed65","toSide":"right","label":"Backplane\n/Bus"},
+		{"id":"fdf48ff585e39c2e","fromNode":"f37c2ddb1cbf5604","fromSide":"right","toNode":"5c9777066a95ed65","toSide":"left"},
+		{"id":"4787b4e5b219caa1","fromNode":"5c9777066a95ed65","fromSide":"left","toNode":"f37c2ddb1cbf5604","toSide":"right"},
+		{"id":"754f09e73b36f485","fromNode":"5d0759c1ff4be4bb","fromSide":"top","toNode":"cc6276407d17be37","toSide":"bottom"}
+	]
+}

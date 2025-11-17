@@ -1,0 +1,11 @@
+- Keep patience and discipline 
+- <span style="font-family:Monaco;color:lightgreen">Don't exit if you are in Profit</span>
+- Don't diversify, Focus on one thing
+- Pre Calculate your profits and losses
+- Study Results carefully 
+- Study each and every companie'sresults 
+- Focus on news relevant to that company
+- Consider multiple sources
+- <span style="color:orange">Don't spare a single decrease in profits, revenue, etc through which company receives money</span>
+- Any suspicious statement of CEO / Chairman ?
+- 

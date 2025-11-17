@@ -1,0 +1,11 @@
+- Learn Web development 
+- Job profile improvements
+	- Classic profile on recruitment websites
+	- Strong resume stuff
+- Interview preparation
+- Personality developments
+	- Cognitive behavioural
+	- Mindfulness
+	- Creative visualization
+- Stock market
+- Projects

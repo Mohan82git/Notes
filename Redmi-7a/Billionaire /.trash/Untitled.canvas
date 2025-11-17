@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"90e1256c5695ae9a","x":72,"y":120,"width":148,"height":50,"type":"text","text":"back plane "},
+		{"id":"7070266983ba94dd","x":240,"y":116,"width":131,"height":50,"type":"text","text":"I/O image"},
+		{"id":"271bc6db7793fb53","x":71,"y":193,"width":151,"height":50,"type":"text","text":"Input modules"},
+		{"id":"6da36b6a117ffa3f","x":71,"y":40,"width":148,"height":52,"type":"text","text":"Power supply "},
+		{"id":"e2b9bc0b6fd3070a","x":240,"y":41,"width":131,"height":50,"type":"text","text":"CPU \n(ALU + CU)"},
+		{"id":"c7f74fd3c1b1b8fc","x":240,"y":193,"width":131,"height":50,"type":"text","text":"Output modules"},
+		{"id":"cc4dd7c778a9b42c","x":400,"y":41,"width":125,"height":50,"type":"text","text":"Memory\n(user + os)"},
+		{"id":"d2a158f0e5df21fc","x":400,"y":115,"width":125,"height":50,"type":"text","text":"Clock / watchdog"},
+		{"id":"4d3429246e4fede9","x":400,"y":193,"width":125,"height":50,"type":"text","text":"HMI/Prog."}
+	],
+	"edges":[
+		{"id":"486bef62671dc9cb","fromNode":"6da36b6a117ffa3f","fromSide":"bottom","toNode":"90e1256c5695ae9a","toSide":"top"},
+		{"id":"ead11422572debc3","fromNode":"90e1256c5695ae9a","fromSide":"bottom","toNode":"271bc6db7793fb53","toSide":"top"},
+		{"id":"487717c5bc5571dd","fromNode":"e2b9bc0b6fd3070a","fromSide":"bottom","toNode":"7070266983ba94dd","toSide":"top"},
+		{"id":"58da6a14344ea3fa","fromNode":"7070266983ba94dd","fromSide":"bottom","toNode":"c7f74fd3c1b1b8fc","toSide":"top"},
+		{"id":"b1f91fbece1f3eea","fromNode":"d2a158f0e5df21fc","fromSide":"bottom","toNode":"4d3429246e4fede9","toSide":"top"},
+		{"id":"b051afc5bcb4e677","fromNode":"cc4dd7c778a9b42c","fromSide":"bottom","toNode":"d2a158f0e5df21fc","toSide":"top"}
+	]
+}

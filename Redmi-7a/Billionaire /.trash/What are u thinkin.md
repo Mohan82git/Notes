@@ -1,0 +1,32 @@
+Thought process 
+- resumes bana lu 
+- Ethical hacking ka course kar lu gov ka
+- NPTEL ke assignment complete kar lu
+- ACS ke sare practicals likh lu
+- Syllabus ka print mar lu
+- book padh lu CBT ki 
+- Apne track pe aa jau wapis
+- git sikh lu 
+- project bana lu 😁 
+- Apna dream resume bana lu
+- sare certification courses kar lu
+- Gym ka sort out kar lu
+- paison ko sahi jagah invest kar lu
+- Gym wali se baat kar lu
+- gym ki playlist bana lu
+
+Disputes 
+- baad mein bana le, abhi kiske gand mein daloge resume
+- bhai teri field alag hai aur voh goverment ka course hai
+- Yogiraj se confirm kar lete hein 
+- Kyu bhai koi kaam dhanda nahi hai kya 
+- it's optional Chahe toh shortcut bana le
+- ✅ Book padh le CBT mindfulness 
+- ✅ Git sikh le
+- project yeh sigma web development ka course khatam hone ke baad kar filhaal code review karo taki tum usko bhulo na
+- Kya karega bana ke
+- ✅ Haan ek course select kar le aur Roz thoda bahot padh le
+- ✅ Already sorted hai bro bas consistently weight gain Karo
+- jaldbazi mein galat jagah invest karne se acha, vaise hi rehne de 
+- Jo attraction hai thoda bahot voh bhi chala jayega 😂 
+- ✅ Dheere dheere bana lena

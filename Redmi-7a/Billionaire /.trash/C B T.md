@@ -1,0 +1,29 @@
+- Put your thoughts in different perspectives 
+- Consider less terrifying explanations
+- Do you have any evidence?
+- Even an injury after accident can be treated
+- Think like a thermometer - in degrees, not extreme (Avoid All or nothing )
+- forgot what is gone, save what is left
+- Test out your predictions
+- Be prepared to taking calculated risks, Bye, Comfort zone!
+- Past experience Doesn't decide future
+- Generate some alternative reasons for what you see
+- Consider that your guesses may be wrong
+- Get more information (if appropriate).
+- Balance emotional reasoning with facts
+- Suspend judgement- See what happening to others
+- One Moment can't decide Whole cinema
+- Labeling: Give up rating game
+- One bad action doesn’t equal a bad person
+- Replace words like ‘must’, ‘need’ and ‘should’ with ‘prefer’, ‘wish’ and ‘want’
+- World doesn’t play to your rules : if you can give others the right to not live up to your standards, you’ll feel less hurt when they fail to do so.
+- You can preferably keep margin for deviations or errors
+- Don't get depressed by failure, recall the sucess for boost up 
+- Assess yourself in the same way you do for ambani or Successful 
+- Start disqualifying Negative things from events
+- Say "Thank You" for compliments
+- Tolerate Temporary discomfort for long term benefit
+- Pushing yourself to do things that are uncomfortable or unpleasant. For example, you can train yourself to work on assignments even if you aren’t in a Good mood
+- Taking Anything personally
+- Some things are out of your control
+

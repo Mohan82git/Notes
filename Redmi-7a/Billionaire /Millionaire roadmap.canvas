@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"n1","type":"text","text":"Start: 10,000 Rupees","x":110,"y":-580,"width":180,"height":60},
+		{"id":"n3","type":"text","text":"Emergency Fund & Savings","x":100,"y":-270,"width":200,"height":60},
+		{"id":"n4","type":"text","text":"Risk Assessment & Planning","x":420,"y":-270,"width":220,"height":60},
+		{"id":"n5","type":"text","text":"Low-Risk Options\n(FD, RD, Liquid Funds)","x":-200,"y":-100,"width":220,"height":80},
+		{"id":"n6","type":"text","text":"Medium-Risk Options\n(Equity Mutual Funds, Index Funds)","x":80,"y":-100,"width":240,"height":80},
+		{"id":"n7","type":"text","text":"High-Risk Options\n(Stocks, Startups, Crypto - small %)","x":410,"y":-100,"width":240,"height":80},
+		{"id":"n2","type":"text","text":"Financial Education\n(Books, Courses, Mentorship)","x":-200,"y":-290,"width":220,"height":100},
+		{"id":"n12","type":"text","text":"Final Goal: 1 Crore","x":110,"y":600,"width":180,"height":60},
+		{"id":"n11","type":"text","text":"Wealth Compounding\n(Reinvest Profits, SIPs, Diversification)","x":60,"y":420,"width":280,"height":80},
+		{"id":"n9","type":"text","text":"Business / Startup\n(Scalable Ideas, Digital Products)","x":80,"y":90,"width":240,"height":80},
+		{"id":"n10","type":"text","text":"Invest in Skills\n(Coding, Marketing, Finance)","x":420,"y":90,"width":220,"height":80},
+		{"id":"n8","type":"text","text":"Active Income Streams\n(Freelancing, Side Hustles)","x":-210,"y":90,"width":240,"height":80}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"n1","fromSide":"bottom","toNode":"n2","toSide":"top","label":"Learn"},
+		{"id":"e2","fromNode":"n1","fromSide":"bottom","toNode":"n3","toSide":"top","label":"Secure Base"},
+		{"id":"e3","fromNode":"n1","fromSide":"bottom","toNode":"n4","toSide":"top","label":"Plan"},
+		{"id":"e4","fromNode":"n2","fromSide":"bottom","toNode":"n5","toSide":"top","label":"Safe Returns"},
+		{"id":"e5","fromNode":"n3","fromSide":"bottom","toNode":"n6","toSide":"top","label":"Invest"},
+		{"id":"e6","fromNode":"n4","fromSide":"bottom","toNode":"n7","toSide":"top","label":"High Risk"},
+		{"id":"e7","fromNode":"n5","fromSide":"bottom","toNode":"n8","toSide":"top","label":"Grow Income"},
+		{"id":"e8","fromNode":"n6","fromSide":"bottom","toNode":"n9","toSide":"top","label":"Scale"},
+		{"id":"e9","fromNode":"n7","fromSide":"bottom","toNode":"n10","toSide":"top","label":"Skill + Risk"},
+		{"id":"e10","fromNode":"n8","fromSide":"bottom","toNode":"n11","toSide":"top","label":"Reinvest"},
+		{"id":"e11","fromNode":"n9","fromSide":"bottom","toNode":"n11","toSide":"top","label":"Profit"},
+		{"id":"e12","fromNode":"n10","fromSide":"bottom","toNode":"n11","toSide":"top","label":"Compounding"},
+		{"id":"e13","fromNode":"n11","fromSide":"bottom","toNode":"n12","toSide":"top","label":"Wealth Built"}
+	]
+}

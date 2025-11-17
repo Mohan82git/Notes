@@ -1,0 +1,14 @@
+- lemon water + chia seeds
+- Jeera Water
+- Tulsi or Mint Water
+- Coconut Water
+- Green tea or matcha
+- Start with lukewarm water with lemon and a pinch of turmeric.
+- All fruit juices 
+- papaya or amla juice
+- coconut water
+- buttermilk - lassi
+- Alternatively, drink chamomile tea
+- Warm turmeric milk with almond milk
+- A warm bowl of miso soup
+- Warm milk with turmeric or ashwagandha.

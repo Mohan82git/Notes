@@ -1,0 +1,43 @@
+- Acs oral study
+	- [ ] Find answers
+	- [ ] Learn
+- Previous year questions
+	- [ ] ACS
+	- [x] PSOC
+	- [ ] PLC
+	- [ ] EHV
+- Mindfulness 
+	- [ ] Analyze
+	- [ ] Add
+	- [ ] Read - continue
+- Check & Complete writeups 
+	- [ ] ACS
+	- [ ] PSOC
+	- [ ] PLC 
+	- [ ] EHV
+- Project skill india matlab model
+	- [ ] Go through 
+	- [ ] Matlab model
+	- [ ] Implement 
+	- [ ] Compare with available data 
+- Coding 
+	- [ ] Sort our old projects to make some revisions 
+	- [ ] Build some Website parts
+	- [ ] Reinforcement of old concepts
+- Oceanof pdf links
+	- [ ] Extract 
+	- [ ] Filter
+	- [ ] Download
+	- [ ] Upload
+- Job profile improvement
+	- [ ] Find
+	- [ ] Create account 
+	- [ ] Improve gradually 
+- Exercise schedule
+	- [ ] Focus
+	- [ ] List out
+	- [ ] Assign
+- Eyes and hair care
+	- [ ] Consistent 
+- Jawline
+- Walking style

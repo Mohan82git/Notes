@@ -1,0 +1,116 @@
+
+- [x] Trade 1: 2100, Profit ₹ 100        
+- [x] Trade 2: 2205, Profit ₹ 105                    
+- [x] Trade 3: 2315, Profit ₹ 110
+- [x] Trade 4: 2431, Profit ₹ 115
+- [x] Trade 5: 2552, Profit ₹ 121
+---
+- [x] Trade 6: 2680, Profit ₹ 127
+- [x] Trade 7: 2814., Profit ₹ 134
+- [ ] Trade 8: 2954, Profit ₹ 140
+- [ ] Trade 9: 3102, Profit ₹ 147
+- [ ] Trade 10: 3257, Profit ₹ 155
+---
+- [ ] Trade 11: 3420, Profit ₹ 162
+- [ ] Trade 12: 3591, Profit ₹ 171
+- [ ] Trade 13: 3771, Profit ₹ 179
+- [ ] Trade 14: 3959, Profit ₹ 188
+- [ ] Trade 15: 4157, Profit ₹ 197
+---
+- [ ] Trade 16: 4365, Profit ₹ 207
+- [ ] Trade 17: 4584, Profit ₹ 218
+- [ ] Trade 18: 4813, Profit ₹ 229
+- [ ] Trade 19: 5053, Profit ₹ 240
+- [ ] Trade 20: 5306, Profit ₹ 252
+---
+- [ ] Trade 21: 5571, Profit ₹ 265
+- [ ] Trade 22: 5850, Profit ₹ 278
+- [ ] Trade 23: 6143, Profit ₹ 292
+- [ ] Trade 24: 6450, Profit ₹ 307
+- [ ] Trade 25: 6772, Profit ₹ 322
+---
+- [ ] Trade 26: 7111, Profit ₹ 338
+- [ ] Trade 27: 7466, Profit ₹ 355
+- [ ] Trade 28: 7840, Profit ₹ 373
+- [ ] Trade 29: 8232, Profit ₹ 392
+- [ ] Trade 30: 8643, Profit ₹ 411
+---
+- [ ] Trade 31: 9076, Profit ₹ 432
+- [ ] Trade 32: 9529, Profit ₹ 453
+- [ ] Trade 33: 10006, Profit ₹ 476
+- [ ] Trade 34: 10506, Profit ₹ 500
+- [ ] Trade 35: 11032, Profit ₹ 525
+---
+- [ ] Trade 36: 11583, Profit ₹ 551
+- [ ] Trade 37: 12162, Profit ₹ 579
+- [ ] Trade 38: 12770, Profit ₹ 608
+- [ ] Trade 39: 13409, Profit ₹ 638
+- [ ] Trade 40: 14079, Profit ₹ 670
+---
+- [ ] Trade 41: 14783, Profit ₹ 703
+- [ ] Trade 42: 15523, Profit ₹ 739
+- [ ] Trade 43: 16299, Profit ₹ 776
+- [ ] Trade 44: 17114, Profit ₹ 814
+- [ ] Trade 45: 17970, Profit ₹ 855
+---
+- [ ] Trade 46: 18868, Profit ₹ 898
+- [ ] Trade 47: 19811, Profit ₹ 943
+- [ ] Trade 48: 20802, Profit ₹ 990
+- [ ] Trade 49: 21842, Profit ₹ 1040
+- [ ] Trade 50: 22934, Profit ₹ 1092
+---
+- [ ] Trade 51: 24081, Profit ₹ 1146
+- [ ] Trade 52: 25285, Profit ₹ 1204
+- [ ] Trade 53: 26549, Profit ₹ 1264
+- [ ] Trade 54: 27877, Profit ₹ 1327
+- [ ] Trade 55: 29271, Profit ₹ 1393
+---
+- [ ] Trade 56: 30734, Profit ₹ 1463
+- [ ] Trade 57: 32271, Profit ₹ 1536
+- [ ] Trade 58: 33885, Profit ₹ 1613
+- [ ] Trade 59: 35579, Profit ₹ 1694
+- [ ] Trade 60: 37358, Profit ₹ 1778
+---
+- [ ] Trade 61: 39226, Profit ₹ 1867
+- [ ] Trade 62: 41187, Profit ₹ 1961
+- [ ] Trade 63: 43246, Profit ₹ 2059
+- [ ] Trade 64: 45409, Profit ₹ 2162
+- [ ] Trade 65: 47679, Profit ₹ 2270
+---
+- [ ] Trade 66: 50063, Profit ₹ 2383
+- [ ] Trade 67: 52566, Profit ₹ 2503
+- [ ] Trade 68: 55195, Profit ₹ 2628
+- [ ] Trade 69: 57955, Profit ₹ 2759
+- [ ] Trade 70: 60852, Profit ₹ 2897
+---
+- [ ] Trade 71: 63895, Profit ₹ 3042
+- [ ] Trade 72: 67090, Profit ₹ 3194
+- [ ] Trade 73: 70444, Profit ₹ 3354
+- [ ] Trade 74: 73967, Profit ₹ 3522
+- [ ] Trade 75: 77665, Profit ₹ 3698
+---
+- [ ] Trade 76: 81548, Profit ₹ 3883
+- [ ] Trade 77: 85626, Profit ₹ 4077
+- [ ] Trade 78: 89907, Profit ₹ 4281
+- [ ] Trade 79: 94402, Profit ₹ 4495
+- [ ] Trade 80: 99122, Profit ₹ 4720
+---
+- [ ] Trade 81: 104079, Profit ₹ 4956
+- [ ] Trade 82: 109282, Profit ₹ 5203
+- [ ] Trade 83: 114747, Profit ₹ 5464
+- [ ] Trade 84: 120484, Profit ₹ 5737
+- [ ] Trade 85: 126508, Profit ₹ 6024
+---
+- [ ] Trade 86: 132834, Profit ₹ 6325
+- [ ] Trade 87: 139475, Profit ₹ 6641
+- [ ] Trade 88: 146449, Profit ₹ 6973
+- [ ] Trade 89: 153772, Profit ₹ 7322
+- [ ] Trade 90: 161460, Profit ₹ 7688
+---
+- [ ] Trade 91: 169533, Profit ₹ 8073
+- [ ] Trade 92: 178010, Profit ₹ 8476
+- [ ] Trade 93: 186910, Profit ₹ 8900
+- [ ] Trade 94: 196256, Profit ₹ 9345
+- [ ] Trade 95: 206069, Profit ₹ 9812
+---
+- [ ] Trade 96: 216372, Profit ₹ 10303

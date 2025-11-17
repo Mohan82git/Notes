@@ -1,0 +1,333 @@
+{
+  "main": {
+    "id": "161f4b1f6d236eb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e35f0017d52ef994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55305bea6597504b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROUTINE & TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROUTINE & TODO"
+            }
+          },
+          {
+            "id": "c6f64b2cd3ec362f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do....md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To do..."
+            }
+          },
+          {
+            "id": "389e12764534b1dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What to do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What to do"
+            }
+          },
+          {
+            "id": "25a54f3d596be9c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "f99b82c0de0d7c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personality website.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personality website"
+            }
+          },
+          {
+            "id": "bff288ff604ec6a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weight gain.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Weight gain"
+            }
+          },
+          {
+            "id": "ddc2410249a8090c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thoughts"
+            }
+          },
+          {
+            "id": "2b218f0aa960d16d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mon - Friday Common.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mon - Friday Common"
+            }
+          },
+          {
+            "id": "40551cee435fe7d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Today.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Today"
+            }
+          },
+          {
+            "id": "2dca5179199b304e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deleted apps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deleted apps"
+            }
+          },
+          {
+            "id": "794b60c03f11b279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WhatsApp chats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WhatsApp chats"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8dd4910e6122222d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dc9b93e523cc81a8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "be33f4ca3f2e2b66",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Poha",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "9ac97f94e9bc729a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "758bb930b90eedf6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9a9466614d22a131",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a9baeed7c8c7097d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "WhatsApp chats.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "1215c66550b676e9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Untitled 4.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "fa9e61e72faf97f3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled 4.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "794b60c03f11b279",
+  "lastOpenFiles": [
+    "WhatsApp",
+    "Deleted apps.md",
+    "WhatsApp chats.md",
+    "Today.md",
+    "Mon - Friday Common.md",
+    "Saturday.md",
+    "to do.md",
+    "Thoughts.md",
+    "Weight gain.md",
+    "Stock market rulebook.md",
+    "TEMP.md",
+    "Billionaire's diary/Cards.md",
+    "Project meetings and discussions.md",
+    "Personality website.md",
+    "To do....md",
+    "Untitled.canvas",
+    "Untitled 1.md",
+    "Faster coding.md",
+    "What to do.md",
+    "Millionaire roadmap.canvas",
+    "full stack.canvas",
+    "Fashion - clothing.md",
+    "Chatgpt plc new .canvas",
+    "Overall PLC system.canvas",
+    "Instagram/AI tools/AI tools.md",
+    "Billionaire's diary/Respectful foods $.md",
+    "Instagram/Iifestyle.md",
+    "2025-07-06.md",
+    "2025-06-29.md",
+    "2025-05-11.md",
+    "Instagram/Job - Everything related to Job.md",
+    "Instagram/AI tools/IMG_20250328_225227 1.jpg"
+  ]
+}
