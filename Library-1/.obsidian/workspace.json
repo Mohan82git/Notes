@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "424c52e5db2119d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1000a6ba151779ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a382e82659f443e5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c674dd24729996d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c167b299798e0a43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a1321505e5e0792",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "578bd990ab6d8b00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "42c20af9fdaa9fd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd84f65e014f010c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cb2abc1b039ded4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df5d5690c30796bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Video - 86.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Video - 86"
+            }
+          },
+          {
+            "id": "21b9c4e95b785453",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Video - 86.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Video - 86"
+            }
+          },
+          {
+            "id": "573fa06f790489ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a3c25e009bb99c2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Video - 86.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Video - 86"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5a1321505e5e0792",
+  "lastOpenFiles": [
+    "mdH2 & qH2.png",
+    "Pasted image 20251113154502.png",
+    "Pasted image 20251113154055.png",
+    "Pasted image 20251113153833.png",
+    "pH2 & mdH2 & qH2.png",
+    "i_v & E_in.png",
+    "I_V_PH & E_PH.png",
+    "Pasted image 20251113153457.png",
+    "Pasted image 20251113153336.png",
+    "Pasted image 20251113153303.png",
+    "Pasted image 20251113153241.png",
+    "ppt.md",
+    "Project.canvas",
+    "Untitled.md",
+    "Sub.md",
+    "Untitled.base",
+    "Time table.md",
+    "Video - 86.md",
+    "Untitled 1.base",
+    "Timetable/Sunday.md",
+    "Freelancing.md",
+    "Timetable/Mon - Friday Common.md",
+    "Timetable/Saturday.md",
+    "Timetable",
+    "Video 88.md",
+    "Welcome.md"
+  ]
+}
