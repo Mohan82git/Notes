@@ -1,22 +1,55 @@
 {
   "main": {
-    "id": "424c52e5db2119d7",
+    "id": "531160edafd8bb37",
     "type": "split",
     "children": [
       {
-        "id": "1000a6ba151779ad",
+        "id": "f9a46b7ef11298c8",
         "type": "tabs",
         "children": [
           {
-            "id": "a382e82659f443e5",
+            "id": "ebde12cfc76a4959",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "0a1953cac7d16e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "56c416cb894dc2ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7db4128912d72f09",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -25,15 +58,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c674dd24729996d4",
+    "id": "df28162e9a2c340b",
     "type": "split",
     "children": [
       {
-        "id": "c167b299798e0a43",
+        "id": "828b8754885d7e16",
         "type": "tabs",
         "children": [
           {
-            "id": "5a1321505e5e0792",
+            "id": "913ab3cc07884e90",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +79,7 @@
             }
           },
           {
-            "id": "578bd990ab6d8b00",
+            "id": "242f189489ce365a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +96,7 @@
             }
           },
           {
-            "id": "42c20af9fdaa9fd5",
+            "id": "e144bdb4ad60cc76",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,20 +112,19 @@
     "width": 300
   },
   "right": {
-    "id": "fd84f65e014f010c",
+    "id": "cacbe44da8cbba3e",
     "type": "split",
     "children": [
       {
-        "id": "2cb2abc1b039ded4",
+        "id": "e887b66572cf10aa",
         "type": "tabs",
         "children": [
           {
-            "id": "df5d5690c30796bd",
+            "id": "f7c7337700ed02d4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video - 86.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,25 +134,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Video - 86"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "21b9c4e95b785453",
+            "id": "d6d3dfc262161130",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Video - 86.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Video - 86"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "573fa06f790489ae",
+            "id": "413db3d9e898e229",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,18 +166,31 @@
             }
           },
           {
-            "id": "a3c25e009bb99c2f",
+            "id": "75a7bce8413ab4d4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1be987751ecd8f94",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Video - 86.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Video - 86"
+              "title": "Outline"
             }
           }
         ]
@@ -167,33 +211,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "5a1321505e5e0792",
+  "active": "7db4128912d72f09",
   "lastOpenFiles": [
-    "mdH2 & qH2.png",
-    "Pasted image 20251113154502.png",
-    "Pasted image 20251113154055.png",
-    "Pasted image 20251113153833.png",
-    "pH2 & mdH2 & qH2.png",
-    "i_v & E_in.png",
-    "I_V_PH & E_PH.png",
-    "Pasted image 20251113153457.png",
-    "Pasted image 20251113153336.png",
-    "Pasted image 20251113153303.png",
-    "Pasted image 20251113153241.png",
-    "ppt.md",
-    "Project.canvas",
-    "Untitled.md",
-    "Sub.md",
-    "Untitled.base",
-    "Time table.md",
-    "Video - 86.md",
-    "Untitled 1.base",
-    "Timetable/Sunday.md",
-    "Freelancing.md",
-    "Timetable/Mon - Friday Common.md",
-    "Timetable/Saturday.md",
-    "Timetable",
-    "Video 88.md",
+    "T.md",
     "Welcome.md"
   ]
 }
