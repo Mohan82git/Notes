@@ -21,5 +21,6 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "editor:clear-formatting"
-  ]
+  ],
+  "promptDelete": false
 }

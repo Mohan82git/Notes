@@ -1,0 +1,14 @@
+Stock market continue 
+- देखो हमें करना यह है कि आज जो stocks ट्रेडिंग में हैं उनका past few days ka analysis करना है कि उनका highest और loweest price band क्या है ।
+- Chances हैं कि स्टॉक support या resistance को bounce कर जाए
+- Strong bounce के साथ ichimochu cross अगर हुआ तो रिस्क ले सकते हैं
+- मान लो stock price को कल 
+	- sellers फोर्स कर रहे हैं नीचे  के लिए ↓ और 
+	- ज्यादा green कैंडल्स नहीं हैं, 
+	- अगला दिन गुरुवार वगैरह है
+	- ichumochu क्रॉस हुआ है
+	- तो अगले दिन कुछ buyers entry मारेंगे और वापिस sellers अपना pressure कंटिन्यू करेंगे 
+	- ↓↓↓↓↓  ↑↓↓↓
+- जब company के बारे में अच्छी news आती है और वो लगातार ऊपर जा रहा है, तो chances हैं कि अब वो गंदे तरीके से नीचे आयेगा, बस ichimochu cross ❌ का इंतजार करो 
+- जितना मिला है उसमें खुश रहो
+- स्टॉक कभी straight line में आगे नहीं बढ़ता opposite direction में bounce करता है \ /\

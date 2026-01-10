@@ -1,1 +1,0 @@
-Fitkari powder : deo, powder in bath, mouth rinse, underarms, shoes
