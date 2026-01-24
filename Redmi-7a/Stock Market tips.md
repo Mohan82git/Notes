@@ -1,3 +1,26 @@
+⚠️ लालच, डर, गुस्सा, प्यार इन सबको साइड में रखना है
+⚠️ Keep patience
+🎯 4-5% भी एक दिन में मिलता है तो भी खुश रहो
+⚠️ स्टॉक और लड़की से जबरदस्ती मत करो, आना होगा तो आ जाएगा ( जबरदस्ती entry नहीं लेना है)
+⚠️ IPO में पैसा नहीं लगाना है
+🕐 दोपहर के वक्त कोई trade नही लेना है
+⚠️ इतने साल जो तुम्हारा experience है, इतनी किताबों में जो पढ़ा है उसका इस्तेमाल भी करना है ।
+( ichimochu clouds, etc )
+⚠️ एकदम edge पे ट्रेड नहीं लेना है, उसका हिस्सा लेना है ! 
+🥊 जरूरी नहीं है कि जो 15-16% cross किया वो 20% hit करेगा, 
+✅ Past history देखो, उससे तुम्हे बहुत कुछ समझ आ जायेगा ( Volume - candles design, Upper and lower range )
+⚠️ Stock सांप की तरह होता है, कभी सीधा नहीं जाता
+
+When stock is trending high or low, see how its sector is performing 
+When price rises/falls with increased volume take the trade Range-expansion-to-volume
+For target, use measured move technique ( measure how much stock moved )
+set stop loss below vwap 
+When the price shoots too much high, there is  less probability of price touching your measured target, so it is advised that you should use 150% Fibonacci 
+Downfall per agar volume Kam ho raha hai, toh voh reversal ho sakta hai
+
+
+
+
 1. Systematic trading Follow the system, Set of rules, Process
     Rule wise trading 
 2. Trade log
