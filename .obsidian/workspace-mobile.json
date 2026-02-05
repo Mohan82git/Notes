@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Computer/Video - 86.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Video - 86"
             }
           }
         ],
@@ -225,7 +225,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Computer/Video - 86.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -281,10 +281,10 @@
   },
   "active": "510c426605fdb602",
   "lastOpenFiles": [
+    "README.md",
     "Computer/Fastest workflow.md",
     "Fastest workflow.md",
     "Redmi-7a/Fastest workflow.md",
-    "README.md",
     "Computer/Video - 86.md",
     "Computer/Book - Time management.md",
     "Computer/Sucessful freelancer profile analysis.md",

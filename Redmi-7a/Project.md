@@ -1,0 +1,15 @@
+- Animated video of how its working
+- What was the dimensions value of membrane before?
+- Find out which membrane are you using and e.g. if you are using nafion, then How you are telling whether that memberane is actually nafion or not
+- How you decided that electrolyzer is actually a PEM electrolyzer?
+- Making video voiceover of how you are changing membrane area and how affecting graph in matlab
+- Finding matlab crack version
+- Show all the graphs in that research paper in the PPT 
+- Make the before and after stage of your simulation
+- Make things clear that what things are you gonna change in simulation and You should be able to tell how its changing i mean in depth (at least examiner should understand it )
+- Scroll through chatgpt history and grab that electrolyzer code
+- What you gonna say whether you downloaded the free project or you made it
+- if you downloaded it then what is your contribution? 
+- You said you are giving membrane dimensions as inputs in parameters file, then how the hell that input is embedding in the model?
+- At least know each model ( What that dude is doing in your model )
+- How that graph is forming

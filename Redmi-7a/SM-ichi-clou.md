@@ -1,29 +1,20 @@
 ### Tanken sen (Conversion line) : 
-- Sentiment 
-	- Bullish: If price is above the Tenkan Sen 
-	- Bearish: If price is below the Tenkan Sen 
+
+
 - The Tenkan Sen should be pointing in the same direction as the trend. The steeper the angle, the greater the trend /
-- If the tanken sen is flat ___ , it indicates that pricemay consolidate in short term, short term trade can reverse soon
-- If tanken is crossed (opposite direction of trend ), one of the three possibilities may happen
-	- Short pull back : only tanken is crossed,  then price continues the trend 
-	- Major pull back : kijun also gets crossed but price continues to trend
-	- Reversal : Price never comes back 
-- 🎆 TIP : Price and tenkan are lovers, price always remains close to tenkan, if price goes far beyond the tenkan,there are high chances it comes back 
+- If the tanken sen is flat ___ , it indicates that price may consolidate in short term, short term trade can reverse soon
+- Attention If the price is crossing tanken is crossed (opposite direction of trend )
+	- Short pull back 
+	- Major pull back 
+	- Reversal 
+- 🎆 TIP : Price and tenkan are lovers,  if price goes far beyond the tenkan, there are high chances it comes back 
 
 ### Kijun sen (Base line)
-- Same as tenkan sen
-- One possible rule call be if price is greater than or equal to 1.5xATR then price can be considered "far" away from Kl.iun Sen.
-- Remember the story of john, mery, and ben - John, Mary, and Ben start walking together; Ben (price) tries to move faster but stays near Mary (Tenkan) and John (Kijun). 
-- John gets a phone call and starts walking slower, falling behind while Mary and Ben continue forward.
-- As distance grows, Mary and Ben may lose sight of John, creating uncertainty about whether he is still moving.
-- Mary may slow down or stop Ben, or eventually turn back to find John if he doesn’t catch up.
-- If John fully stops, Mary and Ben walk ahead briefly, then stop and return to where John stopped.
+- Same as tenkan 
+- Remember the story of john, mery, and ben
 
-Chikou span (Lagging span):
-- Sentiment 
-	- Bullish: If the Chikou Span IS above pnce from 26 periods ago
-	- Bearish: If the Chikou Span is below price from 26 periods ago
-	- Consolidation: If the Chikou Span is touching or very close to price from 26 periods ago 
+### Chikou span (Lagging span):
+- Consolidation: If the Chikou Span is touching or very close to price from 26 periods ago 
 
 ### Kumo clouds
 
@@ -63,3 +54,21 @@ Bullish green 🟩
 - ⚠️ अगर cloud बड़े हो रहे हैं, kijun flat हो रहा हो तो रुक जाओ, price reverse हो सकता है 
 - लेकिन अगर cloud  बड़े होते हो लेकिन kijun अगर प्राइस के साथ चल रहा है, chikou bhi positive है तो trend continue हो सकता है 
 - **Kijun imp rule** : rule ये है कि अगर price kijun से अचानक दूर जाता है तो प्राइस वापिस आयेगा, लेकिन अगर kijun भाग जाता है तो price move नहीं करेगा, kijun वापिस आयेगा
+
+
+
+<p style="font-weight:bold;font-size:25px; color:lightGreen;"> ↑ 🐃 Bullish rules </p>
+- [x] • Price above the Kuma Cloud. 
+- [ ] • Tenkan Sen greater than the Kijun Sen. 
+- [ ] • Chikou Span is greater than the price from 26 periods ago. 
+- [ ] • Future Senkou A is greater than the Future Senkou B. 
+- [ ] • Price is not far from Kijun Sen and Tenkan Sen. 
+- [ ] • Tenkan Sen, Kijun Sen, and Chikou Span should not be in a thick Kuma Cloud. 
+
+ <p style="font-weight:bold;font-size:25px; color:red;"> ↓ 🐨 Bearish rules </p>
+• Price below the Kuma Cloud. 
+• Tenkan Sen less than the Kijun Sen. 
+• Chikou Span is less than the price from 26 periods ago. 
+• Future Senkou A is less than the Future Senkou B. 
+• Price is not far from Kijun Sen and Tenkan Sen. 
+• Tenkan Sen, Kijun Sen, and Chikou Span should not be in a thick Kuma Cloud.
