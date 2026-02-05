@@ -1,9 +1,13 @@
- PPT making gamma, popai
+
+New NPM (Node Package Manager) project
+``` bash
+npm init
+```
 
 Skip the questions, later edit things in package.json
 ``` bash
 npm init -y
-  ```
+```
   
 Single package install :  
 ```bash
@@ -172,4 +176,62 @@ if we do require and import this stuff, that file becomes a module, so we need t
 <script type="Module" src ="Location..."></script>
 ```
 
-# 86 - 15:45
+Multiple node.js ko manage karne ke liye NVM use karte hein
+
+While using commonJS, we get __filename, __dirname by default
+because they get wrapped inside this function
+
+```js
+(function (exports, require, module, __filename __dirname){
+
+// Module code actually lives here
+
+})
+```
+
+Working with files : fs and Path modules
+
+fs modules: 
+Activity:  hit this code, you will see some fs module methods and functions
+```js
+const fs = require("fs");
+console.log(fs);
+```
+
+you will see all the methods for fs module
+
+⚠️ Javascript runs on Asynchronous operation
+
+1. fs.writeFileSync("Mohan.txt", "Mohan is a good boy")
+	- Function to write data in file
+	- Next function is executed only after this 
+
+2. fs.witeFile("Mohan.txt", "Mohan is a good boy")
+	- Function as alernative for fs.writeFileSync
+	- Next function is executed only after this 
+	  
+3. fs.readFile("mohan.txt, "(error, data)=> {
+	   console.log(error);
+	   console.log(data.toString());                   ... Because the data gives buffer values
+   })
+   
+4. fs.appendFile("Harry", "Harryrobo", (e, d)=>{
+	   console.log(d)
+   })
+
+
+path modules: 
+
+You can get many methods for path
+```js
+import path from "path";
+console.log(path)
+```
+ 1. `path.extname(filepath)` : Get file extension
+ 2. `path.dirname(filepath)` : Get file path (without filename)
+	 e.g. 
+	 file : hello.txt, 
+	 expected output: C:/admin/document/hello.txt
+	 Actual output : C:/admin/document
+3. `path.join("part1", "part2")` : You can join two paths
+	 
