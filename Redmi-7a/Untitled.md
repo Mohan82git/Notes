@@ -5,6 +5,36 @@ Prioritise
 3. Stock market 
 4. Degree
 5. Project
+
+
+- [ ] Prepare excel sheet
+	- [ ] ACS final polished
+	- [ ] First insem then endsem questions
+- [ ] Answers: Syllabus textbook + Book + decode + chatgpt
+- [ ] Learning: understand the concept in story mode, ask more questions 
+- [ ] Start doing exercise, 1 muscle 3 times a week,  stay consistent!
+- [ ] Not more but consume daily protein
+- [ ] When its deadline focus on that !
+- [ ] Start day early ( no mobile at washroom, get ready fast target 8:15 am )
+- [ ] Leave college at 4:17 (alarm)
+- [ ] Stock market only at 9:15 - 12-17
+- [ ] Bus :
+	- [ ] Newspaper
+	- [ ] Gmail
+	- [ ] Forms
+	- [ ] Pending tasks
+	- [ ] 
+
+Level 1: Full holiday
+Level 2a: Saturday
+Level 2b: College but no lecture n practical
+Level 3: Morning session, Rest free
+Level 4: Full day college, only 1½ hours left
+
+
+
+
+
 😊
 You’re **not lazy** and you’re **not broken**.  
 What you’re experiencing is actually very common—and very fixable.
