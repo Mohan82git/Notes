@@ -1,70 +1,37 @@
 {
   "main": {
-    "id": "424c52e5db2119d7",
+    "id": "a8ac5dd8dfd33f70",
     "type": "split",
     "children": [
       {
-        "id": "816e3f4688b4ef30",
+        "id": "2eddf5ab600e73a1",
         "type": "tabs",
         "children": [
           {
-            "id": "9e031556e49b9e5a",
+            "id": "99d1bcddb969f8f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SM-ichi-clou.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SM-ichi-clou"
-            }
-          },
-          {
-            "id": "45e142ec13e491f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🚀 Node.js + NPM — REVISION SHEET.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🚀 Node.js + NPM — REVISION SHEET"
-            }
-          },
-          {
-            "id": "710cedf977bbb6d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🚂Express js.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🚂Express js"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c674dd24729996d4",
+    "id": "bf53f962f40d1f41",
     "type": "split",
     "children": [
       {
-        "id": "c167b299798e0a43",
+        "id": "88188dbfeb62eaf6",
         "type": "tabs",
         "children": [
           {
-            "id": "5a1321505e5e0792",
+            "id": "2bbfcf69e2dd4e0b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +44,7 @@
             }
           },
           {
-            "id": "578bd990ab6d8b00",
+            "id": "885d3aed37591dc8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +61,7 @@
             }
           },
           {
-            "id": "42c20af9fdaa9fd5",
+            "id": "8c8bb8ee0b80acab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,24 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "fd84f65e014f010c",
+    "id": "164324d9359b9bb2",
     "type": "split",
     "children": [
       {
-        "id": "2cb2abc1b039ded4",
+        "id": "a171040d3b8d2e38",
         "type": "tabs",
         "children": [
           {
-            "id": "df5d5690c30796bd",
+            "id": "3a3c84b79321d6e6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video - 86.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Video - 86"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "21b9c4e95b785453",
+            "id": "a8c004adbd2f27cf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Video - 86.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Video - 86"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "573fa06f790489ae",
+            "id": "fd33b1d0503ec8cd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,32 +131,17 @@
             }
           },
           {
-            "id": "a3c25e009bb99c2f",
+            "id": "6997143a882410a5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Video - 86.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Video - 86"
-            }
-          },
-          {
-            "id": "3b10e3c6353f2e85",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Outline"
             }
           }
         ]
@@ -213,41 +162,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "45e142ec13e491f4",
-  "lastOpenFiles": [
-    "🚂Express js.md",
-    "🚀 Node.js + NPM — REVISION SHEET.md",
-    "Sucessful freelancer profile analysis.md",
-    "Fastest workflow.md",
-    "Book - Time management.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "Time table.md",
-    "Sub.md",
-    "SM-ichi-clou.md",
-    "Br gupta.md",
-    "study/energy-management-system.md",
-    "Video 88.md",
-    "Project.canvas",
-    "Freelancing.md",
-    "Pasted image 20251113153057.png",
-    "study",
-    "New folder",
-    "energy-management-system.md",
-    "mdH2 & qH2.png",
-    "Pasted image 20251113154502.png",
-    "Pasted image 20251113154055.png",
-    "Pasted image 20251113153833.png",
-    "pH2 & mdH2 & qH2.png",
-    "i_v & E_in.png",
-    "I_V_PH & E_PH.png",
-    "Pasted image 20251113153457.png",
-    "Pasted image 20251113153336.png",
-    "ppt.md",
-    "Timetable/Sunday.md",
-    "Timetable/Mon - Friday Common.md",
-    "Timetable/Saturday.md",
-    "Timetable",
-    "Welcome.md"
-  ]
+  "active": "99d1bcddb969f8f7",
+  "lastOpenFiles": []
 }
