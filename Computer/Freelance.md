@@ -1,0 +1,7 @@
+- Response time is less
+- Profile picture is professional
+	- If you don't have any professional pic, just change the background
+	- If you get only a 1 nice headshot, you can literally do lot of combinations and same can be used in gigs thumbnails also
+- Catchy tagline
+- Focus on less delivery time & less cost
+- Gig thumbnail should be similar to YouTube, must be look friendly 

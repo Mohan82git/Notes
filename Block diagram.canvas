@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"3ac41dfd6c43a52e","type":"text","text":"DC - DC Converter\n~**1 kW**\n","x":-348,"y":-256,"width":128,"height":97,"color":"4"},
+		{"id":"08ecda0e80b654ba","type":"text","text":"PEM Electrolyser\nRated power : **1 KW**\nEfficiency :  **60-70%**","x":-168,"y":-250,"width":187,"height":85,"color":"4"},
+		{"id":"b74c55e4e434baf8","type":"text","text":"Solar energy\n**640-883 W**","x":-620,"y":-236,"width":155,"height":56,"color":"4"},
+		{"id":"39a745e435ca4681","type":"text","text":"Control algorithm","x":-488,"y":-439,"width":268,"height":50,"color":"6"},
+		{"id":"662ffcbd15b17845","type":"text","text":"Scope \n(Plotting & observing graph)","x":175,"y":-80,"width":250,"height":60,"color":"4"},
+		{"id":"87ad2d07a3b2f4b8","type":"text","text":"Storage \n**1314 kg of hydrogen at 60 bar**","x":265,"y":-270,"width":160,"height":125,"color":"4"},
+		{"id":"2afee798ee3059ce","type":"text","text":"Water Supply (Inbuilt block: supplies watter according to need)","x":-184,"y":-105,"width":220,"height":110,"color":"5"}
+	],
+	"edges":[
+		{"id":"bd4480e5a0768d83","fromNode":"b74c55e4e434baf8","fromSide":"right","toNode":"3ac41dfd6c43a52e","toSide":"left","color":"4","label":"Power"},
+		{"id":"d239d582d0f53f16","fromNode":"3ac41dfd6c43a52e","fromSide":"right","toNode":"08ecda0e80b654ba","toSide":"left","color":"4"},
+		{"id":"bcabeea5d0ed3368","fromNode":"08ecda0e80b654ba","fromSide":"right","toNode":"87ad2d07a3b2f4b8","toSide":"left","color":"4","label":"Hydrogen"},
+		{"id":"bc21a0e7185ef836","fromNode":"b74c55e4e434baf8","fromSide":"top","toNode":"39a745e435ca4681","toSide":"bottom","color":"#47567b","label":"Current"},
+		{"id":"97bf4231fe1134e3","fromNode":"39a745e435ca4681","fromSide":"bottom","toNode":"3ac41dfd6c43a52e","toSide":"top","color":"#ff6666","label":"V_ref"},
+		{"id":"8dc34c51bfbeface","fromNode":"2afee798ee3059ce","fromSide":"top","toNode":"08ecda0e80b654ba","toSide":"bottom","color":"5"},
+		{"id":"372fb4d659e9229b","fromNode":"08ecda0e80b654ba","fromSide":"right","toNode":"662ffcbd15b17845","toSide":"left","color":"4"},
+		{"id":"9f10e3480b81788e","fromNode":"08ecda0e80b654ba","fromSide":"left","toNode":"39a745e435ca4681","toSide":"right","color":"1","label":"Temperature \nvalues"}
+	]
+}
