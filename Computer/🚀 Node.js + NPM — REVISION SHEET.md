@@ -32,6 +32,8 @@ npm install -g pkg-name       # global (whole system)
 🧠 **Package = borrowed code**
 
 Explore packages in npm website
+Get different different packages : 
+npmjs.com/packages
 
 ---
 ## 🌐 SIMPLE NODE SERVER (Skeleton)
@@ -249,4 +251,4 @@ const path = require("path")
 console.log(path);
 ```
 
- continue video : https://youtu.be/SksvlZM-5Sk?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=665
+ 

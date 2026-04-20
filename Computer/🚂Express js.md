@@ -173,3 +173,59 @@ app.put('/blog/:slug', (req, res) => {
 ```
 
 
+## Sending files as a response
+
+```js
+app.get('/blog/:slug', (req, res) => {
+ res.sendFile('templates/index.html',  {root : __dirname})
+});
+```
+
+`{root : __dirname}` this is very important, For security resons, express uses only folder spcified by us
+
+**💡 Try this : Below are some other methods for res **
+
+| Method           | Description                                                                  |
+| ---------------- | ---------------------------------------------------------------------------- |
+| res.download()   | Prompt a file to be downloaded.                                              |
+| res.end()        | End the response process.                                                    |
+| res.json()       | Send a JSON response.                                                        |
+| res.jsonp()      | Send a JSON response with JSONP support.                                     |
+| res.redirect()   | Redirect a request.                                                          |
+| res.render()     | Render a view template.                                                      |
+| res.send()       | Send a response of various types.                                            |
+| res.sendFile()   | Send a file as an octet stream.                                              |
+| res.sendStatus() | Set the response status code and send its string representation as the body. |
+
+### Creating our api
+
+```js
+app.get("/api", (req, res) => {
+    res.json({ a: 1, b: 2, c: 3, d: 4, name: ["harry", "jerry"] })
+})
+```
+
+# Testing API - 👑Postman
+
+	Create workspace and start the putting requests, you can save the requets collections
+
+# Express router : Organising endpoints
+
+Jaise hum alag alag pdf files drive mein alag alag folders mein save karte hein, same ussi tarah alag alag enpoints hum alag alag .js files mein save karte hein
+
+e.g 
+
+Main website : main.js
+www.mb.com/
+
+products : products.js
+www.mb.com/sheets
+www.mb.com/graphics
+www.mb.com/matlab
+
+https://youtu.be/SksvlZM-5Sk?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1556
+
+
+
+
+

@@ -1,0 +1,36 @@
+- [x] Content
+	- [x] Medium
+		- [x] White
+		- [x] Blue
+	- [x] Small
+	- [x] Orange to red
+	- [x] Pink to yellow
+- [x] Dialogues
+	- [x] white
+	- [x] blue
+	- [x] green
+- [x] Warning
+- [x] Tips
+- [x] Remember
+- [x] Link
+- [ ] Activity description
+- [x] Activity
+	- [x] 3 elements
+		- [x] with link
+			- [x] With current bg
+				- [x] Blue 
+				- [x] green
+			- [x] Blue bg
+			- [x] Green bg
+			- [x] purple
+			- [ ] black bg
+		
+	- [x] 2 elements
+		- [x] with link
+			- [x] With current bg
+				- [x] Blue 
+				- [x] green
+			- [x] Blue bg
+			- [x] Green bg
+			- [x] purple
+			- [ ] black bg
