@@ -223,6 +223,76 @@ www.mb.com/sheets
 www.mb.com/graphics
 www.mb.com/matlab
 
+
+Main.js < /> : Add this code in main.js (main js file)
+```js
+const express = require('express')
+const products = require('./routes/products')
+
+app.use('/products', products)
+```
+
+
+products.js
+
+```js
+const express = require('express')
+const router = express.Router()
+
+// define the home page route
+router.get('/', (req, res) => {
+  res.send('Products home page')
+})
+
+// define the about route
+router.get('/about', (req, res) => {
+  res.send('About products')
+})
+ 
+
+module.exports = router
+```
+
+
+# Middleware in Express Js
+#### Sometimes we do the same thing for every request, so just like CSS can target all elements at once, middleware lets us handle all requests easily
+### `app.get()` = Rooms in a hotel  
+### 👉 Middleware = pre-processing / Entrance gate
+
+```js
+
+
+// Middleware syntax
+app.use((req, res, next) => {
+    console.log('m2')
+    req.harry = "I am Rohan bhai";
+    next()
+})
+```
+
+Example : 
+
+```js
+app.use((req, res, next) => {
+    console.log(req.headers)
+    req.harry = "I am harry bhai";
+    fs.appendFileSync("logs.txt", `${Date.now()} is a ${req.method}\n`)
+    console.log(`${Date.now()} is a ${req.method}`)
+    // res.send("Hacked by Middlware 1")
+    next()
+})
+```
+
+
+
+Steps : 
+
+Gather the extensions in array or whatever
+dont gather repeated once
+then make folder for each array
+then check each files and move to the folder according to the extension
+
+
 https://youtu.be/SksvlZM-5Sk?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1556
 
 
